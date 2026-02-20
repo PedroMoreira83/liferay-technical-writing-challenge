@@ -12,12 +12,12 @@ To manage your viewing experience, use the playback cluster on your remote contr
 
 | Control | Icon | Action |
 | :--- | :---: | :--- |
-| **Play** | ? | Starts or resumes playback of the selected recording. |
-| **Stop** | ? | Ends playback and returns you to the main recordings menu. |
-| **Pause** | ? | Temporarily freezes the video on the current frame. |
-| **Fast-Forward** | ? | Advances the video quickly. Press multiple times to toggle speed. |
-| **Rewind** | ? | Reverses the video. Press multiple times to toggle speed. |
-| **Record** | ? | Capture the selected source (for further instructions, go to Section 2). |  
+| **Play** | [PLAY] | Starts or resumes playback of the selected recording. |
+| **Stop** | [STOP] | Ends playback and returns you to the main recordings menu. |
+| **Pause** | [PAUSE] | Temporarily freezes the video on the current frame. |
+| **Fast-Forward** | [FF] | Advances the video quickly. Press multiple times to toggle speed. |
+| **Rewind** | [REW] | Reverses the video. Press multiple times to toggle speed. |
+| **Record** | [REC] | Capture the selected source (for further instructions, go to Section 2). |  
 
 ---
 

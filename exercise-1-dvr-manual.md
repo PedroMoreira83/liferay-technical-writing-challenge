@@ -20,7 +20,7 @@ To manage your viewing experience, use the playback cluster on your remote contr
 | **Record** | `[REC]` | Solid red circle | Begins capturing the current live broadcast. |
 | **Guide** | `[GUIDE]`| Text label | Opens the program schedule to select shows for recording. |
 
-![Remote Control Diagram](images/remote-layout.png)
+![Remote Control Diagram](images/dvr-remote-control.png)
 
 ---
 
